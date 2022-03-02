@@ -1,6 +1,6 @@
 # RaspberryPints-Docker
 
-RaspberryPints Docker using rtlindne version ( https://github.com/rtlindne/RaspberryPints ), based on Debian Buster.
+RaspberryPints Docker using Grooviee's version ( https://github.com/Grooviee/RaspberryPints ), as custom fork of the  rtlindne version ( https://github.com/rtlindne/RaspberryPints ), based on Debian Buster.
 
 You need to have an instance of MySQL or MariaDB running that could be used by RPints. 
 
